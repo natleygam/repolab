@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 int x=11
+=======
+int x=2
+>>>>>>> newcode
